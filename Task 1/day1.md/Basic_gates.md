@@ -1,4 +1,4 @@
-#and gate
+and gate
 ![and_gate](https://github.com/user-attachments/assets/3867529e-5d02-45f8-9c24-905f8cc1365c)
 
 and_gate wf
