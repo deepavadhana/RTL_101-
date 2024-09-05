@@ -41,17 +41,3 @@ Dff with reset value
 Dff with reset value wf
 ![D ff with reset wf](https://github.com/user-attachments/assets/1eba48fd-5760-4417-92f7-c10424917fe2)
 
-dff xor code and wf
-![DFF+XOR](https://github.com/user-attachments/assets/856e3b04-55df-45d4-8613-c94603108274)
-
-dff 1 code and wf
-![DFF1](https://github.com/user-attachments/assets/696a0a24-cedf-4c04-8d22-bfadd5ff7875)
-
-dff2 code and wf
-![DFF2](https://github.com/user-attachments/assets/2dad3605-3217-442c-9c9f-f802e296aa8d)
-
-Mux and dff 1 code and wf
-![MUX and DFF1](https://github.com/user-attachments/assets/56ad844b-f52a-4740-8182-fbc440ef381e)
-
-Mux and dff 2 code and wf
-![MUX and DFF 2](https://github.com/user-attachments/assets/0ce32e12-5108-4ff1-bda5-cb9288f7b57d)
